@@ -1,4 +1,4 @@
-Frontend - Astro z React dla komponentów interaktywnych:
+Frontend - React dla komponentów interaktywnych:
 
 - React 19 zapewni interaktywność tam, gdzie jest potrzebna
 - TypeScript 5 dla statycznego typowania kodu i lepszego wsparcia IDE
